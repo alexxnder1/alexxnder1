@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxnder1&layout=donut-vertical&theme=dark&cache_seconds=21600)](https://github.com/alexxnder1/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexxnder1&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexxnder1&theme=dark&cache_seconds=21600)](https://github.com/alexxnder1/github-readme-stats)
 
 <!--
 **alexxnder1/alexxnder1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
